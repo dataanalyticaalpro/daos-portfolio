@@ -21,4 +21,4 @@ Compared to the beginning of the week, I now naturally ask questions such as:
 - What hypothesis can I test?
 - What evidence do I need before making a recommendation?
 
-I am beginning to think like an analyst before thinking like a SQL user.
+I am beginning to think like an analyst before thinking like a SQL user. 
