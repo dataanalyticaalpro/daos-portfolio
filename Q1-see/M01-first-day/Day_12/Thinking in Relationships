@@ -1,0 +1,10 @@
+Day 12 – Thinking in Relationships
+
+- Learned that databases separate information to reduce duplication and maintain consistency.
+- Understood that each table represents a real business entity.
+- Introduced the Relationship Lens:
+  1. What does this table represent?
+  2. Why is it separated?
+  3. What connects it to another table?
+  4. What business question requires combining them?
+- Key insight: Databases model business relationships, not just data.
